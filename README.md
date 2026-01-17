@@ -9,7 +9,7 @@
 <p>🍌 Don't forget to get some Potassium 🍌</p>
 
 <h2>⚡️ A Few Quick Facts</h2>
-<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDZiamdhNG9uOThza2JibjBmM3c5cHBiN2J0bWJpdTduOHplbHNyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HnVWmWRrkLj9iFusDQ/giphy.gif" width="400" />
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDZiamdhNG9uOThza2JibjBmM3c5cHBiN2J0bWJpdTduOHplbHNyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HnVWmWRrkLj9iFusDQ/giphy.gif"/>
 <ul>
 <li>🔭 I’m currently working on some exciting research projects. 💻</li>
 <li>🧐 Learning about 🎨 <strong>Diffusion post training</strong>, 🌐 <strong>World Models</strong>, and 🤖 LLMs.</li>
