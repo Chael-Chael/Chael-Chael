@@ -5,7 +5,7 @@
   </a>
 </p>
 <p>🎓 I'm an undergraduate at <strong><a href="https://www.hust.edu.cn/">HuaZhong University of Science and Technology</a></strong>. My current research interests are 🎨 <strong>Diffusion post training</strong> and 🌐 <strong>World Models</strong>.</p>
-<p>🍌 Don't forget to get some Potassium 🍌</p>
+<p>� 去码头整点薯条</p>
 
 <h2>⚡️ A Few Quick Facts</h2>
 <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDZiamdhNG9uOThza2JibjBmM3c5cHBiN2J0bWJpdTduOHplbHNyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HnVWmWRrkLj9iFusDQ/giphy.gif" width="300" />
