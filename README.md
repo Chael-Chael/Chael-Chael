@@ -15,4 +15,11 @@
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Chael-Chael">Github</a>.</li>
 <li>💬 Ping me about <strong>GenAI, Diffusion, VLMs and World Models</strong>.</li>
 </ul>
+
+<h2>📝 Publications</h2>
+<ul>
+  <li><strong>I2E: From Image Pixels to Actionable Interactive Environments for Text-Guided Image Editing</strong> <br />
+  <a href="https://arxiv.org/abs/2601.03741">[Paper]</a> <a href="">[Code]</a> <a href="https://image2env.github.io/">[Project Page]</a>
+  </li>
+</ul>
 <p>Stay tuned for more updates!</p>
