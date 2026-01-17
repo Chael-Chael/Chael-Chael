@@ -8,7 +8,7 @@
 
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Chael-Chael&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
 
-![Chael-Chael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chael-Chael&show_icons=true)
+![Chael-Chael's GitHub stats](https://github-readme-stats.vercel.app/api?username=chael-chael&show_icons=true)
 
 <h2>⚡️ A Few Quick Facts</h2>
 <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDZiamdhNG9uOThza2JibjBmM3c5cHBiN2J0bWJpdTduOHplbHNyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HnVWmWRrkLj9iFusDQ/giphy.gif" width="300" />
