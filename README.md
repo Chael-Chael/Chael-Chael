@@ -11,8 +11,8 @@
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on some exciting research projects.</li>
-<li>🧐 Learning about <strong>Diffusion post training</strong>, <strong>World Models</strong>, and deep learning.</li>
+<li>🧐 Learning about <strong>Diffusion post training</strong>, <strong>World Models</strong>, and LLMs.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Chael-Chael">Github</a>.</li>
-<li>💬 Ping me about <strong>GenAI, Diffusion, and World Models</strong>.</li>
+<li>💬 Ping me about <strong>GenAI, Diffusion, VLMs and World Models</strong>.</li>
 </ul>
 <p>Stay tuned for more updates!</p>
