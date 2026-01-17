@@ -7,7 +7,7 @@
 <p>🎓 I'm an undergraduate at <strong><a href="https://www.hust.edu.cn/">HuaZhong University of Science and Technology</a></strong>. My current research interests are 🎨 <strong>Diffusion post training</strong> and 🌐 <strong>World Models</strong>.</p>
 <p><a href="https://github.com/Chael-Chael"><img src="https://img.shields.io/badge/-Github-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=github&amp;link=https://github.com/Chael-Chael" alt="Github Badge"></a></p>
 <p>🍌 Don't forget to get some Potassium 🍌</p>
-<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDZiamdhNG9uOThza2JibjBmM3c5cHBiN2J0bWJpdTduOHplbHNyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HnVWmWRrkLj9iFusDQ/giphy.gif" />
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDZiamdhNG9uOThza2JibjBmM3c5cHBiN2J0bWJpdTduOHplbHNyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HnVWmWRrkLj9iFusDQ/giphy.gif" width="200" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on some exciting research projects. 💻</li>
