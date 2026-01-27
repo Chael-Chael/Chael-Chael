@@ -7,7 +7,7 @@
 <p>🎓 I'm an undergraduate at <strong><a href="https://www.hust.edu.cn/">HuaZhong University of Science and Technology</a></strong>. My current research interests are 🎨 <strong>Diffusion post training</strong> and 🌐 <strong>World Models</strong>.</p>
 
 <h2>⚡️ A Few Quick Facts</h2>
-<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDZiamdhNG9uOThza2JibjBmM3c5cHBiN2J0bWJpdTduOHplbHNyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HnVWmWRrkLj9iFusDQ/giphy.gif" width="300" />
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW5tamdoMzN1ZWh6azk1NjBkbnJpNzUyNHQweGJyMTkzOWtkYnc5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YUFcSVsjkqRd9Yw0YW/giphy.gif" width="300" />
 <ul>
 <li>🔭 I’m currently working on some exciting research projects. 💻</li>
 <li>🧐 Learning about 🎨 <strong>Diffusion post training</strong>, 🌐 <strong>World Models</strong>, and 🤖 <strong>LLMs</strong>.</li>
