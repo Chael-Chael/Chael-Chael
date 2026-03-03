@@ -4,15 +4,15 @@
     <img src="https://readme-typing-svg.demolab.com?font=Neuton&size=25&letterSpacing=3px&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=No+risk%2C+Full+push!" alt="Typing SVG" />
   </a>
 </p>
-<p>🎓 I'm an undergraduate at <strong><a href="https://www.hust.edu.cn/">HuaZhong University of Science and Technology</a></strong>. My current research interests are 🎨 <strong>Diffusion post training</strong> and 🌐 <strong>World Models</strong>.</p>
+<p>🎓 I'm an undergraduate at <strong><a href="https://www.hust.edu.cn/">HuaZhong University of Science and Technology</a></strong>. My current research interests are 🎨 <strong>Diffusion post training</strong>, 🔗 <strong>Unified Multimodal Models</strong>, and 🌐 <strong>World Models</strong>.</p>
 
 <h2>⚡️ A Few Quick Facts</h2>
 <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW5tamdoMzN1ZWh6azk1NjBkbnJpNzUyNHQweGJyMTkzOWtkYnc5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YUFcSVsjkqRd9Yw0YW/giphy.gif" width="300" />
 <ul>
 <li>🔭 I’m currently working on some exciting research projects. 💻</li>
-<li>🧐 Learning about 🎨 <strong>Diffusion post training</strong>, 🌐 <strong>World Models</strong>, and 🤖 <strong>LLMs</strong>.</li>
+<li>🧐 Learning about 🎨 <strong>Diffusion post training</strong>, 🔗 <strong>Unified Multimodal Models</strong>, 🌐 <strong>World Models</strong>, and 🤖 <strong>VLMs</strong>.</li>
 <li>👨💻 Most of my projects are available on <a href="https://github.com/Chael-Chael">Github</a>. 🐙</li>
-<li>💬 Ping me about 🧠 <strong>GenAI, Diffusion, VLMs and World Models</strong>.</li>
+<li>💬 Ping me about 🧠 <strong>GenAI, VLMs and World Models</strong>.</li>
 </ul>
 
 <h2>📝 Publications & Research 📚</h2>
