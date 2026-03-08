@@ -27,15 +27,13 @@
 
 <h2>📰 News</h2>
 <ul>
-<li><em>2026.01</em>: &nbsp;🎉🎉 I2E, my first collaborative work with fellows from Tsinghua University and Shanghai AI Lab, has been submitted to ACL 2026!</li>
+<li><em>2026.01</em>: &nbsp;🎉🎉 I2E, my first collaborative work with fellows from <strong>Tsinghua University</strong> and <strong>Shanghai AI Lab</strong>, has been submitted to <strong>ACL 2026</strong>!</li>
 </ul>
 
 <h2>📝 Publications & Research</h2>
 <ul>
   <li><strong>I2E: From Image Pixels to Actionable Interactive Environments for Text-Guided Image Editing</strong> 🖼️➡️🎮 <br />
   <em>Submitted to ACL 2026</em> <br />
-  Jinghan Yu<sup>1*</sup>, Junhao Xiao<sup>1*</sup>, <strong>Chenyu Zhu</strong><sup>1</sup>, Jiaming Li<sup>1</sup>, Jia Li<sup>1</sup>, HanMing Deng<sup>1</sup>, Xirui Wang<sup>1</sup>, Guoli Jia<sup>2</sup>, Jianjun Li<sup>1</sup>, Zhiyuan Ma<sup>1†</sup>, Xiang Bai<sup>1</sup>, Bowen Zhou<sup>2,3</sup> <br />
-  <span style="font-size: 0.85em;"><sup>1</sup>HUST, <sup>2</sup>Tsinghua University, <sup>3</sup>Shanghai AI Laboratory</span> <br />
   <a href="https://arxiv.org/abs/2601.03741">📄 [Paper]</a> <a href="https://github.com/jinghan-yu/mild-executor">💻 [Code]</a> <a href="https://image2env.github.io/">🏠 [Project Page]</a>
   </li>
 </ul>
