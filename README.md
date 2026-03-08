@@ -11,7 +11,7 @@
 
 <p>🎓 I'm a third year undergraduate at <strong><a href="https://www.hust.edu.cn/">HuaZhong University of Science and Technology (HUST)</a></strong>, driven by a simple belief: <em>No risk, full push!</em> 🚀</p>
 
-<p>I believe that general intelligence demands more than reasoning alone — it requires the ability to <strong>see</strong>, <strong>imagine</strong>, and <strong>create</strong>. My research explores this vision at the intersection of 🔗 <strong>Unified Multimodal Models</strong>, 🎨 <strong>Diffusion Post Training</strong>, 🌐 <strong>World Models</strong>, and 🤖 <strong>MLLMs</strong>, working toward AI systems that jointly reason and imagine across both digital and physical worlds. <em>I believe unified intelligence is the path to AGI.</em></p>
+<p>I believe that general intelligence demands more than reasoning alone — it requires the ability to <strong>see</strong>, <strong>imagine</strong>, and <strong>create</strong>. My research explores this vision at the intersection of 🔗 <strong>Unified Multimodal Models</strong>, 🎨 <strong>Diffusion Post Training</strong>, 🌐 <strong>World Models</strong>, and 🤖 <strong>MLLMs</strong>, working toward AI systems that jointly reason and imagine across both digital and physical worlds. <strong><em>I believe unified intelligence is the path to AGI.</em></strong></p>
 
 <p>I'm always open to discussions and collaborations — feel free to reach out! 💬</p>
 
