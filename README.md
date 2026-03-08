@@ -25,12 +25,12 @@
 <li>🔍 Actively seeking internships in the field of <strong>MLLM</strong> and <strong>AIGC</strong>.</li>
 </ul>
 
-<h2>� News</h2>
+<h2>📰 News</h2>
 <ul>
 <li><em>2026.01</em>: &nbsp;🎉🎉 I2E, my first collaborative work with fellows from Tsinghua University and Shanghai AI Lab, has been submitted to ACL 2026!</li>
 </ul>
 
-<h2>�📝 Publications & Research 📚</h2>
+<h2>📝 Publications & Research</h2>
 <ul>
   <li><strong>I2E: From Image Pixels to Actionable Interactive Environments for Text-Guided Image Editing</strong> 🖼️➡️🎮 <br />
   <em>Submitted to ACL 2026</em> <br />
