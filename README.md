@@ -18,7 +18,7 @@
 <h2>⚡️ A Few Quick Facts</h2>
 <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW5tamdoMzN1ZWh6azk1NjBkbnJpNzUyNHQweGJyMTkzOWtkYnc5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YUFcSVsjkqRd9Yw0YW/giphy.gif" width="300" />
 <ul>
-<li>🔭 I'm currently working on a new framework for <strong>Diffusion RL</strong>, aiming for NeurIPS 2026! 🚀</li>
+<li>🔭 I'm currently working on a new framework for <strong>Diffusion RL</strong>🚀</li>
 <li>🧐 Learning about 🔗 <strong>Unified Multimodal Models</strong>, 🎨 <strong>Diffusion Post Training</strong>, 🌐 <strong>World Models</strong>, and 🤖 <strong>MLLMs</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Chael-Chael">Github</a>. 🐙</li>
 <li>💬 Ping me about 🧠 <strong>Unified Intelligence, MLLMs and World Models</strong>.</li>
