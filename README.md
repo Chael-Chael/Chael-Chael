@@ -27,13 +27,14 @@
 
 <h2>📰 News</h2>
 <ul>
+<li><em>2026.04</em>: &nbsp;🎉🎉 I2E accepted by <strong>ACL 2026 (main)</strong>!</li>
 <li><em>2026.01</em>: &nbsp;🎉🎉 I2E, my first collaborative work with fellows from <strong>Tsinghua University</strong> and <strong>Shanghai AI Lab</strong>, has been submitted to <strong>ACL 2026</strong>!</li>
 </ul>
 
 <h2>📝 Publications & Research</h2>
 <ul>
   <li><strong>I2E: From Image Pixels to Actionable Interactive Environments for Text-Guided Image Editing</strong> 🖼️➡️🎮 <br />
-  <em>Submitted to ACL 2026</em> <br />
+  <em>ACL 2026 Main</em> <br />
   <a href="https://arxiv.org/abs/2601.03741">📄 [Paper]</a> <a href="https://github.com/jinghan-yu/mild-executor">💻 [Code]</a> <a href="https://image2env.github.io/">🏠 [Project Page]</a>
   </li>
 </ul>
