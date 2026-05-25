@@ -16,7 +16,7 @@
 <p>I'm always open to discussions and collaborations — feel free to reach out! 💬</p>
 
 <h2>⚡️ A Few Quick Facts</h2>
-<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW5tamdoMzN1ZWh6azk1NjBkbnJpNzUyNHQweGJyMTkzOWtkYnc5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YUFcSVsjkqRd9Yw0YW/giphy.gif" width="300" />
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3FsZHduYXJvempzZHQ3NGFkZmtocDhuNnYzNGo4a3Rjc3MzNGgwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nVMn040IW05Dx6rMg0/giphy.gif" width="300" />
 <ul>
 <li>🔭 I'm currently working on interesting ideas in Multimodal Agents and World Models. 🚀</li>
 <li>🧐 Learning about 🔗 <strong>Unified Multimodal Models</strong>, 🌐 <strong>World Models</strong>, and 🤖 <strong>MLLMs</strong>.</li>
