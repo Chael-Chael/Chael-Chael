@@ -29,7 +29,7 @@
 <ul>
 <li><em>2026.05</em>: &nbsp;🎉🎉 TMPO, my first lead-author work, has been submitted to <strong>NeurIPS 2026</strong>! Huge thanks to Kuaishou Technology for the computing support!</li>
 <li><em>2026.04</em>: &nbsp;🎉🎉 I2E accepted by <strong>ACL 2026 (main)</strong>!</li>
-<li><em>2026.01</em>: &nbsp;🎉🎉 I2E, my first collaborative work with fellows from <strong>Tsinghua University</strong> and <strong>KuaiShou Technology</strong>, has been submitted to <strong>ACL 2026</strong>!</li>
+<li><em>2026.01</em>: &nbsp;🎉🎉 I2E, my first collaborative work with fellows from <strong>Tsinghua University</strong> and <strong>Kuaishou Technology</strong>, has been submitted to <strong>ACL 2026</strong>!</li>
 </ul>
 
 <h2>📝 Publications & Research</h2>
