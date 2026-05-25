@@ -16,7 +16,7 @@
 <p>I'm always open to discussions and collaborations — feel free to reach out! 💬</p>
 
 <h2>⚡️ A Few Quick Facts</h2>
-<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3FsZHduYXJvempzZHQ3NGFkZmtocDhuNnYzNGo4a3Rjc3MzNGgwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nVMn040IW05Dx6rMg0/giphy.gif" width="300" />
+<img align="right" src="https://media.giphy.com/media/nVMn040IW05Dx6rMg0/giphy.gif" width="300" />
 <ul>
 <li>🔭 I'm currently working on interesting ideas in Multimodal Agents and World Models. 🚀</li>
 <li>🧐 Learning about 🔗 <strong>Unified Multimodal Models</strong>, 🌐 <strong>World Models</strong>, and 🤖 <strong>MLLMs</strong>.</li>
@@ -37,6 +37,7 @@
   <li><strong>TMPO: Trajectory Matching Policy Optimization for Diverse and Efficient Diffusion Alignment</strong><br />
   <em>arXiv preprint, 2026</em> <br />
   <a href="https://arxiv.org/abs/2605.10983">📄 [Paper]</a> <a href="https://github.com/Chael-Chael/TMPO">💻 [Code]</a> <a href="https://tmpo-diffusion.github.io/">🏠 [Project Page]</a>
+  </li>
   <li><strong>I2E: From Image Pixels to Actionable Interactive Environments for Text-Guided Image Editing</strong><br />
   <em>ACL 2026, Main</em> <br />
   <a href="https://arxiv.org/abs/2601.03741">📄 [Paper]</a> <a href="https://github.com/jinghan-yu/mild-executor">💻 [Code]</a> <a href="https://image2env.github.io/">🏠 [Project Page]</a>
