@@ -16,7 +16,7 @@
 <p>I'm always open to discussions and collaborations — feel free to reach out! 💬</p>
 
 <h2>⚡️ A Few Quick Facts</h2>
-<img align="right" src="https://media.giphy.com/media/nVMn040IW05Dx6rMg0/giphy.gif" width="300" />
+<img align="right" src="./assets/quick-facts.gif" width="300" alt="Coding animation" />
 <ul>
 <li>🔭 I'm currently working on interesting ideas in Multimodal Agents and World Models. 🚀</li>
 <li>🧐 Learning about 🔗 <strong>Unified Multimodal Models</strong>, 🌐 <strong>World Models</strong>, and 🤖 <strong>MLLMs</strong>.</li>
