@@ -5,11 +5,11 @@
 </p>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Neuton&size=25&letterSpacing=3px&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=No+risk%2C+Full+push!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Shippori+Mincho&size=25&pause=1000&color=000000&center=true&vCenter=true&multiline=true&random=true&width=435&lines=%E5%83%95%E3%81%AF%E3%81%93%E3%81%93%E3%81%AB%E3%81%84%E3%81%A6%E3%82%82%E3%81%84%E3%81%84%E3%82%93%E3%81%A0%E3%80%82" alt="Typing SVG" />
   </a>
 </p>
 
-<p>🎓 I'm a third year undergraduate at <strong><a href="https://www.hust.edu.cn/">HuaZhong University of Science and Technology (HUST)</a></strong>, driven by a simple belief: <em>No risk, full push!</em> 🚀</p>
+<p>🎓 Third year undergraduate at <strong><a href="https://www.hust.edu.cn/">HuaZhong University of Science and Technology (HUST)</a></strong>.
 
 <p>I believe that general intelligence demands more than reasoning alone — it requires the ability to <strong>see</strong>, <strong>imagine</strong>, and <strong>create</strong>. My research explores this vision at the intersection of 🔗 <strong>Unified Multimodal Models</strong>, 🎨 <strong>Diffusion Models</strong>, 🌐 <strong>World Models</strong>, and 🤖 <strong>MLLMs</strong>, working toward AI systems that jointly reason and imagine across both digital and physical worlds. <strong><em>I believe unified intelligence is the path to AGI.</em></strong></p>
 
