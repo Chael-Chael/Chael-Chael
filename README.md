@@ -1,4 +1,3 @@
-<h2>Hello there 👋, I'm Chael-Chael</h2>
 <p align="center">
   <a href="https://chael-chael.github.io/">🏠 <strong>Homepage</strong></a> &nbsp;|&nbsp;
   <a href="https://scholar.google.com/citations?user=k_GGXCkAAAAJ">🎓 <strong>Google Scholar</strong></a>
