@@ -26,7 +26,7 @@
 
 <h2>📰 News</h2>
 <ul>
-<li><em>2026.05</em>: &nbsp;🎉🎉 TMPO, my first lead-author work, has been submitted to <strong>NeurIPS 2026</strong>! Huge thanks to Kuaishou Technology for the computing support!</li>
+<li><em>2026.05</em>: &nbsp;🎉🎉 TMPO, my first lead-author work, has been under review! Huge thanks to Kuaishou Technology for the computing support!</li>
 <li><em>2026.04</em>: &nbsp;🎉🎉 I2E accepted by <strong>ACL 2026 (main)</strong>!</li>
 <li><em>2026.01</em>: &nbsp;🎉🎉 I2E, my first collaborative work with fellows from <strong>Tsinghua University</strong> and <strong>Kuaishou Technology</strong>, has been submitted to <strong>ACL 2026</strong>!</li>
 </ul>
@@ -35,7 +35,7 @@
 <ul>
   <li><strong>TMPO: Trajectory Matching Policy Optimization for Diverse and Efficient Diffusion Alignment</strong><br />
   <em>arXiv preprint, 2026</em> <br />
-  <a href="https://arxiv.org/abs/2605.10983">📄 [Paper]</a> <a href="https://github.com/Chael-Chael/TMPO">💻 [Code]</a> <a href="https://tmpo-diffusion.github.io/">🏠 [Project Page]</a>
+  <a href="https://arxiv.org/abs/2605.10983">📄 [Paper]</a> <a href="https://github.com/MAIR-Lab-HUST/TMPO">💻 [Code]</a> <a href="https://tmpo-diffusion.github.io/">🏠 [Project Page]</a>
   </li>
   <li><strong>I2E: From Image Pixels to Actionable Interactive Environments for Text-Guided Image Editing</strong><br />
   <em>ACL 2026, Main</em> <br />
