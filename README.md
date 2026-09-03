@@ -28,7 +28,7 @@
 <li>⌨️ <strong><a href="https://github.com/Chael-Chael/dsh-reference-anything">dsh-reference-anything</a></strong> — An enhanced @ menu for referencing files, skills, commands, and agent sessions in DeepSeek Harness.</li>
 <li>🌍 <strong><a href="https://github.com/Chael-Chael/zotero-translate-skill">zotero-translate-skill</a></strong> — An agent-native Zotero PDF translation skill powered by pdf2zh and BabelDOC.</li>
 <li>🎨 <strong><a href="https://github.com/Chael-Chael/awesome-hermes-eva-skins">awesome-hermes-eva-skins</a></strong> — A curated collection of EVA-style retro themes for Hermes CLI Agent, designed for the Windows Terminal retro effect.</li>
-<li>🖌️ <strong><a href="https://github.com/Chael-Chael/I2E">I2E</a></strong> — Research code for turning images into interactive environments for text-guided editing.</li>
+<li>🎛️ <strong><a href="https://github.com/MAIR-Lab-HUST/TMPO">TMPO</a></strong> — Research code for trajectory-level diffusion alignment with diverse outputs.</li>
 </ul>
 
 <h2>✍️ Writing</h2>
