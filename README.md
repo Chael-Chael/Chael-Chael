@@ -35,7 +35,7 @@
 <p>Recent research papers:</p>
 <ul>
   <li><strong>TMPO: Trajectory Matching Policy Optimization for Diverse and Efficient Diffusion Alignment</strong><br />
-  <em>arXiv preprint, 2026</em><br />
+  <em>NeurIPS 2026</em><br />
   <a href="https://arxiv.org/abs/2605.10983">📑 [Paper]</a> <a href="https://github.com/MAIR-Lab-HUST/TMPO">⌨️ [Code]</a> <a href="https://tmpo-diffusion.github.io/">🔗 [Project Page]</a>
   </li>
   <li><strong>I2E: From Image Pixels to Actionable Interactive Environments for Text-Guided Image Editing</strong><br />
