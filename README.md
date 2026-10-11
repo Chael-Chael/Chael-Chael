@@ -8,9 +8,9 @@
   </a>
 </p>
 
-<p>🏫 Undergraduate at <strong><a href="https://www.hust.edu.cn/">Huazhong University of Science and Technology (HUST)</a></strong> and a member of <strong><a href="https://github.com/MAIR-Lab-HUST">MAIR Lab</a></strong>.</p>
+<p>🏫 Undergraduate at <strong><a href="https://www.hust.edu.cn/">Huazhong University of Science and Technology (HUST)</a></strong>, a member of <strong><a href="https://github.com/MAIR-Lab-HUST">MAIR Lab</a></strong>, and an incoming master's student at <strong><a href="https://www.ustc.edu.cn/">USTC</a></strong>'s <strong>AGI Institute</strong>.</p>
 
-<p>I build models and agentic tools that <strong>learn continually</strong> and <strong>improve their own capabilities</strong>. My research spans <strong>foundation model post-training</strong>, <strong>diffusion models</strong>, and <strong>AI agents</strong>. Here's what I'm working on, what I've shipped, and what I've been writing.</p>
+<p>I build models and agentic tools that <strong>learn continually</strong> and <strong>improve their own capabilities</strong>. My research spans <strong>foundation model post-training</strong>, <strong>world models</strong>, <strong>diffusion models</strong>, and <strong>AI agents</strong>. Here's what I'm working on, what I've shipped, and what I've been writing.</p>
 
 <p>📬 Open to research collaborations and internship opportunities in Agentic AI and foundation-model training — reach me at <a href="mailto:zhu_chenyu@foxmail.com">zhu_chenyu@foxmail.com</a>.</p>
 
@@ -19,7 +19,7 @@
 <ul>
 <li>🔄 Exploring <strong>continual learning and recursive self-improvement</strong> — systems that learn from ongoing experience and improve their own capabilities.</li>
 <li>🧪 Researching <strong>foundation model post-training</strong>, including RL methods for improving reasoning, alignment, and adaptability.</li>
-<li>🧩 Working on <strong>diffusion models and adaptive AI agents</strong> that perceive, reason, and act.</li>
+<li>🧩 Working on <strong>world models, diffusion models, and adaptive AI agents</strong> that perceive, reason, and act.</li>
 <li>🔧 Building open-source tools for AI-assisted development and research workflows.</li>
 </ul>
 
@@ -36,7 +36,7 @@
 <ul>
   <li><strong>TMPO: Trajectory Matching Policy Optimization for Diverse and Efficient Diffusion Alignment</strong><br />
   <em>NeurIPS 2026</em><br />
-  <a href="https://arxiv.org/abs/2605.10983">📑 [Paper]</a> <a href="https://github.com/MAIR-Lab-HUST/TMPO">⌨️ [Code]</a> <a href="https://tmpo-diffusion.github.io/">🔗 [Project Page]</a>
+  <a href="https://arxiv.org/abs/2605.10983">📑 [Paper]</a> <a href="https://github.com/MAIR-Lab-HUST/TMPO">⌨️ [Code]</a> <a href="https://mair-lab-hust.github.io/TMPO/">🔗 [Project Page]</a>
   </li>
   <li><strong>I2E: From Image Pixels to Actionable Interactive Environments for Text-Guided Image Editing</strong><br />
   <em>ACL 2026, Main</em><br />
