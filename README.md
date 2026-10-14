@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<p>🏫 Undergraduate at <strong><a href="https://www.hust.edu.cn/">HUST</a></strong>, a member of <strong><a href="https://github.com/MAIR-Lab-HUST">MAIR Lab</a></strong>, and an incoming master's student at <strong><a href="https://www.ustc.edu.cn/">USTC</a></strong>'s <strong>AGI Institute</strong>.</p>
+<p>🏫 Undergraduate at <strong><a href="https://www.hust.edu.cn/">HUST</a></strong>, a member of <strong><a href="https://github.com/MAIR-Lab-HUST">MAIR Lab</a></strong>, and an incoming master's student at <strong><a href="https://www.ustc.edu.cn/">USTC</a></strong>'s <strong>AGI Institute</strong>, advised by <strong><a href="https://shaoqingren.com/">Prof. Shaoqing Ren</a></strong> (Author of ResNet, Faster R-CNN)</p>
 
 <p>I build models and agentic tools that <strong>learn continually</strong> and <strong>improve their own capabilities</strong>. My research spans <strong>foundation model post-training</strong>, <strong>world models</strong>, <strong>diffusion models</strong>, and <strong>AI agents</strong>. Here's what I'm working on, what I've shipped, and what I've been writing.</p>
 
