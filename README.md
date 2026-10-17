@@ -44,3 +44,7 @@
   </li>
 </ul>
 <p>🌱 More projects, research, and writing on my <a href="https://chael-chael.github.io/">Homepage</a>.</p>
+
+<p align="center">
+  <img src="https://eva-counter.2792357190.workers.dev/@profile" alt="Profile views" />
+</p>
