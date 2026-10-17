@@ -13,7 +13,7 @@
 ## About Me
 
 <p>
-  <img align="right" src="https://eva-counter.2792357190.workers.dev/@profile" width="300" alt="Profile views" />
+  <img align="right" src="https://eva-counter.2792357190.workers.dev/@profile" width="350" alt="Profile views" />
 </p>
 
 <p>
