@@ -10,11 +10,11 @@
   </a>
 </p>
 
-## About Me
-
-<p>
-  <img align="right" src="https://eva-counter.2792357190.workers.dev/@profile" width="350" alt="Profile views" />
+<p align="center">
+  <img src="https://eva-counter.2792357190.workers.dev/@profile" width="350" alt="Profile views" />
 </p>
+
+## About Me
 
 <p>
 Undergraduate at <strong><a href="https://www.hust.edu.cn/">HUST</a></strong>, previously member of <strong><a href="https://github.com/MAIR-Lab-HUST">MAIR Lab</a></strong>.
