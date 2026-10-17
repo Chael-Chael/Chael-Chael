@@ -1,16 +1,14 @@
 
 <p align="center">
-  <a href="https://chael-chael.github.io/"><code>🧭 Homepage</code></a> &nbsp;|&nbsp;
-  <a href="https://scholar.google.com/citations?user=k_GGXCkAAAAJ"><code>📚 Google Scholar</code></a>
+  <a href="https://chael-chael.github.io/">🧭 Homepage</a> &nbsp;|&nbsp;
+  <a href="https://scholar.google.com/citations?user=k_GGXCkAAAAJ">📚 Google Scholar</a>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=New+Tegomin&size=25&pause=1000&color=000000&center=true&vCenter=true&multiline=true&repeat=false&random=true&width=435&lines=%E5%83%95%E3%81%AF%E3%81%93%E3%81%93%E3%81%AB%E3%81%84%E3%81%A6%E3%82%82%E3%81%84%E3%81%84%E3%82%93%E3%81%A0%E3%80%82" alt="Typing SVG" />
   </a>
-</p>
-
-<p align="center">
+  <br />
   <img src="https://eva-counter.2792357190.workers.dev/@profile" width="350" alt="Profile views" />
 </p>
 
