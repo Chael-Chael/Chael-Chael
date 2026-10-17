@@ -28,8 +28,6 @@ Incoming <strong><a href="https://www.ustc.edu.cn/">USTC</a></strong>'s <strong>
 
 ### 📦 Projects
 
-<img align="right" src="./assets/quick-facts.gif" height="120" alt="Coding animation" />
-
 <ul>
 <li><strong><a href="https://github.com/Chael-Chael/dsh-reference-anything">dsh-reference-anything</a></strong> — The best plugin for referencing anything in DeepSeek Harness.</li>
 <li><strong><a href="https://github.com/Chael-Chael/awesome-hermes-eva-skins">awesome-hermes-eva-skins</a></strong> — A dope EVA-style retro themes for Hermes CLI Agent.</li>
@@ -55,5 +53,15 @@ Incoming <strong><a href="https://www.ustc.edu.cn/">USTC</a></strong>'s <strong>
 
 <p>Open to research collaborations and internship opportunities in Agentic AI and foundation-model training — reach me at 📬 <a href="mailto:zhu_chenyu@foxmail.com">zhu_chenyu@foxmail.com</a>.</p>
 
-<p>🌱 More stuff on my <a href="https://chael-chael.github.io/">Homepage</a>.</p>
+<p align="center">
+<em>
+Omedetou！
+</em>
+</p>
+
+<p align="center">
+<img src="./assets/quick-facts.gif" height="120" alt="Coding animation" />
+</p>
+
+<p align="center">🌱 More stuff on my <a href="https://chael-chael.github.io/">Homepage</a>.</p>
 
