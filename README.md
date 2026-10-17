@@ -28,8 +28,7 @@ Incoming <strong><a href="https://www.ustc.edu.cn/">USTC</a></strong>'s <strong>
 
 ### 📦 Projects
 
-
-<img align="right" src="./assets/quick-facts.gif" width="300" alt="Coding animation" />
+<img align="right" src="./assets/quick-facts.gif" height="120" alt="Coding animation" />
 
 <ul>
 <li><strong><a href="https://github.com/Chael-Chael/dsh-reference-anything">dsh-reference-anything</a></strong> — The best plugin for referencing anything in DeepSeek Harness.</li>
