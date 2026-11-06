@@ -17,7 +17,7 @@
 <p>
 Undergraduate at <strong><a href="https://www.hust.edu.cn/">HUST</a></strong>, previously member of <strong><a href="https://github.com/MAIR-Lab-HUST">MAIR Lab</a></strong>.
 
-Incoming <strong><a href="https://www.ustc.edu.cn/">USTC</a></strong>'s <strong>AGI Institute</strong>, advised by <strong><a href="https://shaoqingren.com/">Prof. Shaoqing Ren</a> (Author of ResNet, Faster R-CNN).</strong></p>
+Incoming M.S. at <strong><a href="https://www.ustc.edu.cn/">USTC</a></strong>'s <strong>AGI Institute</strong>, advised by <strong><a href="https://shaoqingren.com/">Prof. Shaoqing Ren</a> (Author of ResNet, Faster R-CNN).</strong></p>
 
 ### 🛠️ Interests
 
